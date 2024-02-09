@@ -40,7 +40,7 @@
   /* Sidebar */
   --site-title-color: rgb(113, 113, 113);
   --site-subtitle-color: #717171;
-  --sidebar-bg: #f6f8fa;
+  --sidebar-bg: url("/assets/img/sidebar-bg-img.jpg");
   --sidebar-border-color: #efefef;
   --sidebar-muted-color: #545454;
   --sidebar-active-color: #1d1d1d;
@@ -92,7 +92,7 @@
   --tag-hover: rgb(222, 226, 230);
   --search-tag-bg: #f8f9fa;
 
-  [class^='prompt-'] {
+  [class^="prompt-"] {
     --link-underline-color: rgb(219, 216, 216);
   }
 
