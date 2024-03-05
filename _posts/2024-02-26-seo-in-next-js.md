@@ -72,10 +72,10 @@ Document has a valid rel=canonical
 
 ### 점수
 
-<img src='/assets/img/post/2024-02-26-seo-in-next-js-img-1.png' width='100%'>
+<img src='/assets/img/post/2024-02-26-seo-in-next-js-img-1.png' width='100%' alt='seo 적용 전 이미지'>
 > 전
 
-<img src='/assets/img/post/2024-02-26-seo-in-next-js-img-2.png' width='100%'>
+<img src='/assets/img/post/2024-02-26-seo-in-next-js-img-2.png' width='100%' alt='seo 적용 전 이미지'>
 > 후
 
 ### 100점 만들면 끝일까?
