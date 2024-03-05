@@ -404,6 +404,32 @@ main {
   }
 }
 
+.first-line {
+  margin: 5rem 0;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(7px);
+  -webkit-backdrop-filter: blur(7px);
+  border: 1px solid rgba(196, 255, 0, 1);
+  background-color: rgba(177, 216, 49, 0.18);
+  padding: 1.2rem;
+  text-align: center;
+  font-weight: 600;
+}
+
+.last-line {
+  margin: 5rem 0;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(7px);
+  -webkit-backdrop-filter: blur(7px);
+  background-color: rgba(0, 168, 255, 0.18);
+  border: 1px solid rgba(0, 168, 255, 1);
+  padding: 1rem;
+  text-align: center;
+  font-weight: 600;
+}
+
 .content {
   font-size: 1.08rem;
   margin-top: 2rem;
