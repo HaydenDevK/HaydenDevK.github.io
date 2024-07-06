@@ -5,16 +5,23 @@ categories: [Dev Journal, "2024"]
 image: "/assets/img/post/2024-06-07-sniper-factory-week02.png"
 tags:
   [
+    Frontend,
+    Javascript,
+    JS,
+    React,
+    Next.js,
+    App Router,
     수코딩,
-    스나이퍼 팩토리,
-    유데미,
-    웅진씽크빅,
     sucoding,
+    스나이퍼 팩토리,
     sniper factory,
+    유데미,
     udemy,
+    웅진씽크빅,
     woongjin thinkbig,
     인사이드아웃,
-    Next.js
+    부트캠프,
+    bootcamp
   ]
 ---
 
