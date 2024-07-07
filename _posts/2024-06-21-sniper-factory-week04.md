@@ -1,5 +1,5 @@
 ---
-title: "[회고] 수코딩x스나이퍼팩토리x웅진싱크빅xUdemy _ Next.js 프로젝트 캠프 Week4"
+title: "[회고] 수코딩x스나이퍼팩토리x웅진싱크빅x유데미 Next.js 프로젝트 캠프 : Project Week1"
 date: 2024-06-21 19:00:00 +09:00
 categories: [Dev Journal, "2024"]
 image: "/assets/img/post/sniper-factory-project.png"
