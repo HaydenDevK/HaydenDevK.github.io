@@ -1,9 +1,9 @@
 ---
 title: "[Next.js] Next.js에서 Vercel Speed Insight, Sentry 설정"
-date: 2024-11-21 13:00:00 +09:00
+date: 2024-11-21 10:00:00 +09:00
 categories: [Tech Notes, Frontend]
 image: "/assets/img/post/2024-11-21-nextjs-speedinsight-sentry.gif"
-tags: [Frontend, CSS, Next.js, Vercel Speed Insight, Sentry]
+tags: [Frontend, CSS, Vercel Speed Insight, Sentry]
 ---
 
 ## Vercel Speed Insights
