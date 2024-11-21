@@ -119,7 +119,7 @@ export default function RootLayout({
 
 - 다 기본 값으로 엔터
 
-#### 2.GitHub 레포지토리에 시크릿 토큰 추가
+#### 2. GitHub 레포지토리에 시크릿 토큰 추가
 
 - 1번 완료 시 제공되는 SENTRY_AUTH_TOKEN를 복사 붙여넣기
 
